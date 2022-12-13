@@ -1,1 +1,1 @@
-Mimoškolská činnosť z informatiky - Pong Game
+# Mimoškolská činnosť z informatiky
